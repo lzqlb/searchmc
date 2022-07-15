@@ -5,6 +5,8 @@
 
 # SearchMC
 "SearchMC" est un bot qui vous cherche toute information sur une personne via son pseudo minecraft, aillant deja était sur un des serveur dans le fichier database, il ira vous chercher son ip, adresse mail, ou son compte adresse:mdp:username
+
+
 **Exemple**: `?search <username>` pour chercher les information d'une personne ! !
 
 
