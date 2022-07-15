@@ -1,6 +1,6 @@
 <img align=left src="https://cdn.discordapp.com/attachments/984233303634751538/997304223291162734/965AB518-E994-4DE8-9ABB-7B70DD42DAB3.jpg" width="150" alt="SearchMC" />
 
-<a href="https://discord.gg/onlyfan"><img src="https://img.shields.io/discord/682193585210130508?color=7289da&logo=discord&logoColor=white" alt="Serveur support" /></a>
+<a href="https://discord.gg/vJxXU5E2yj"><img src="https://img.shields.io/discord/682193585210130508?color=7289da&logo=discord&logoColor=white" alt="Serveur support" /></a>
 <a href="https://github.com/lzqlb/searchmc"><img src="https://img.shields.io/github/stars/lzqlb/searchmc?style=social" alt="GitHub" /></a>
 
 # SearchMC
@@ -11,7 +11,7 @@
 ### Modifications de vos préférences
 ```Changer token du bot dans la derniére ligne```
 ```Changer CLIENT_ID BLACKLIST_ID OWNER_ID ```
-```Puis amuser vous <3``
+```Puis amuser vous <3```
 
 
 
